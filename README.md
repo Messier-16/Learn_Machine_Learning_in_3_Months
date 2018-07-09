@@ -20,8 +20,8 @@ OR http://statweb.stanford.edu/~jtaylo/courses/stats116/
 ## Week 4 Algorithms
 Stanford MOOCs: https://www.coursera.org/specializations/algorithms
 
-Princeton MOOCs:https://www.coursera.org/learn/algorithms-part1
-                https://www.coursera.org/learn/algorithms-part2
+Princeton MOOCs: https://www.coursera.org/learn/algorithms-part1
+                 https://www.coursera.org/learn/algorithms-part2
 
 # Month 2
 
@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQ
 ## Week 2 
 Intro to ML (Udacity)
 https://eu.udacity.com/course/intro-to-machine-learning--ud120
+
+(basically everything before neural nets)
 
 ## Week 3-4
 ML Project Ideas
