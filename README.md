@@ -1,6 +1,6 @@
 # Learn_Machine_Learning_in_3_Months
 
-This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube 
+This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube, edited by me.
 
 # Month 1
 
@@ -11,15 +11,16 @@ https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ## Week 3 Probability
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
+
 OR http://web.stanford.edu/class/cs109/ 
 (Stanford Probability for CS)
+
 OR http://statweb.stanford.edu/~jtaylo/courses/stats116/ 
 (Stanford Probability theory)
 ## Week 4 Algorithms
 Stanford MOOCs: https://www.coursera.org/specializations/algorithms
 
 Princeton MOOCs:https://www.coursera.org/learn/algorithms-part1
-
                 https://www.coursera.org/learn/algorithms-part2
 
 # Month 2
